@@ -10,8 +10,8 @@ Componentes principales
 
 Sus principales componentes:
 
-    - El microcontrolador controla las operaciones e instrucciones dadas a la placa;
-    - El clock está controlado por el cristal oscilador, normalmente de 16 MHz, que proporciona un ritmo para las actividades del 
+    - Microcontrolador controla las operaciones e instrucciones dadas a la placa;
+    - Clock está controlado por el cristal oscilador, normalmente de 16 MHz, que proporciona un ritmo para las actividades del 
      microcontrolador;
     - Módulo definido por la comunicación con un ordenador, compuesto por una entrada USB,un microcontrolador dedicado
     y un puente para cargar código en el arduino; 
