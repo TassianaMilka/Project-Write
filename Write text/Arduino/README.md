@@ -1,12 +1,12 @@
  03/06/2024
 
-Arduino
+# Arduino
 
 O arduino surgiu em 2005 como um prototipagem eletrônica utilizado pelo estudantes e profissionais que contém 
 interligação com a internet das coisas (IoT),robôs,sistemas de automação,residencial ou industrial, alarmes e 
 entre outros.
 
-Principais componentes
+# Principais componentes
 
 Os seus principais componentes:
 
@@ -24,23 +24,23 @@ Os seus principais componentes:
       
 
 
-Física
+# Física
 
 Algo referente a física para a ligação dos itens na realização de suas funções da   eletrônica com seu principal 
 requisito dos circuitos divididos em escala.
 
-Matemática
+# Matemática
 
 Na matemática com os números de quantidade e dos que são descrito para operar  quando é acionado.
 
 
-Linguagem de Programação
+# Linguagem de Programação
 
 A linguagem de programação mais utilizada é o c e c++ elas são parecidas  em questão de elaboração para o 
 funcionamento no arduino. 
 
 
-Simulador Online
+# Simulador Online
 
 Um site  que recomendo é  o tinkercad  para simular o arduino em funcionamento.
 
