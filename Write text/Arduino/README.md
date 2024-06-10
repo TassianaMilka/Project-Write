@@ -87,8 +87,6 @@ requirement of circuits divided in scales.
 
 # Programming Languages
 
--The most widely used programming languages are c and c++.They are similar in terms of how they are designed to Programming Languages
-
 -The most widely used programming languages are c and c++. They are similar in terms of how they are designed to hold the at
 arduino. 
 
