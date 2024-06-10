@@ -13,11 +13,15 @@ others.
 # Its main components:
 
 -Microcontroller controls the operations and instructions given to the board;
+
 -Clock is controlled by the oscillator crystal, usually 16 MHz, providing rhythm for the activities of microcontroller;
+
 -Module defined by communication with a computer, made up of USB input,dedicated microcontroller and bridge for uploading 
  code to the arduino; 
+ 
  - Power connector;
- -  - Connectors for sensors that take analogue or digital readings.
+ - 
+- Connectors for sensors that take analogue or digital readings.
 
 
 
