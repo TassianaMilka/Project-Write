@@ -19,9 +19,9 @@ others.
 -Module defined by communication with a computer, made up of USB input,dedicated microcontroller and bridge for uploading 
  code to the arduino; 
  
-- Power connector;
+Power connector;
  
-- Connectors for sensors that take analogue or digital readings.
+-Connectors for sensors that take analogue or digital readings.
 
 
 
