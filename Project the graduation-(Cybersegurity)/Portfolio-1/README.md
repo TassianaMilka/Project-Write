@@ -21,9 +21,9 @@ management;
 
 -Sarbanes-Oxley Act (SOX) about its context of creation and its importance to computing and the enterprise in its data and stored information;
 
-OSI model of its layers containing seven of them;
+-OSI model of its layers containing seven of them;
 
-Architecture and organization of computers a side story of difference and assimilates for development with hardware components.
+-Architecture and organization of computers a side story of difference and assimilates for development with hardware components.
 
 
 # Espanõl
