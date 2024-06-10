@@ -13,6 +13,8 @@ gerenciamentos;
 
 -Arquitetura e Organização de computadores um lado história de diferença e assimila para o desenvolvimento com os componentes de hardware.
 
+# --------------------------------------------------------------------------------------------------------------------------------
+
 # English 
 
 Accomplishment described in Portuguese on some contexts of technology among them:
@@ -25,6 +27,7 @@ management;
 
 -Architecture and organization of computers a side story of difference and assimilates for development with hardware components.
 
+# --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 Realización descrita en portugués en algunos contextos de la tecnología, entre ellos:
@@ -37,4 +40,6 @@ Administración;
 -Modelo OSI de sus capas que contiene siete de ellas;
   
 -Arquitectura y organización de ordenadores, una historia paralela de diferencia y asimila para su desarrollo con componentes de hardware.
+
+# --------------------------------------------------------------------------------------------------------------------------------
 
