@@ -103,8 +103,6 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 
 
- 03/06/2024
-
 Arduino
 
 -Arduino surgió en 2005 como una herramienta de creación de prototipos electrónicos utilizada por estudiantes y profesionales que incluye 
@@ -129,16 +127,16 @@ y un puente para cargar código en el arduino;
 
 # Física
 
-Algo que ver con la física para vincular los elementos en la realización de sus funciones electrónicas con su principal 
+-Algo que ver con la física para vincular los elementos en la realización de sus funciones electrónicas con su principal 
 requisito de los circuitos divididos en escalas.
 
 # Matemáticas
 
-En matemáticas con los números y cantidades que se describen para operar cuando se activa.
+-En matemáticas con los números y cantidades que se describen para operar cuando se activa.
 
 # Lenguajes de programación
 
-Los lenguajes de programación más utilizados es c y c++ son similares en cuanto a cómo están diseñados para funcionar en el 
+-Los lenguajes de programación más utilizados es c y c++ son similares en cuanto a cómo están diseñados para funcionar en el 
 arduino. 
 
 
