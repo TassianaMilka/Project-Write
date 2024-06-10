@@ -109,7 +109,7 @@ Arduino
 interconexión con el Internet de las Cosas (IoT), robots, sistemas de automatización doméstica e industrial, alarmas y 
 entre otros.
 
--Componentes principales
+# Componentes principales
 
 Sus principales componentes:
 
