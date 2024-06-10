@@ -1,5 +1,54 @@
  03/06/2024
 
+Arduino
+
+O arduino surgiu em 2005 como um prototipagem eletrônica utilizado pelo estudantes e profissionais que contém 
+interligação com a internet das coisas (IoT),robôs,sistemas de automação,residencial ou industrial, alarmes e 
+entre outros.
+
+Principais componentes
+
+Os seus principais componentes:
+
+-Microcontrolador realiza o controle das operações e instruções dadas à placa;
+
+-Clock é controlado  pelo cristal oscilador, geralmente é de 16 MHz, fornecer um ritmo para as atividades do 
+ microcontrolador;
+ 
+-Módulo definido pela comunicação com um computador, composto por uma entrada USB e um microcontrolador dedicado
+ e uma ponte para upload de um código para o arduino; 
+    
+-Conector de alimentação;
+
+-Conectores para sensores que  fazem  leitura analógica ou leitura digital.
+      
+
+
+Física
+
+Algo referente a física para a ligação dos itens na realização de suas funções da   eletrônica com seu principal 
+requisito dos circuitos divididos em escala.
+
+Matemática
+
+Na matemática com os números de quantidade e dos que são descrito para operar  quando é acionado.
+
+
+Linguagem de Programação
+
+A linguagem de programação mais utilizada é o c e c++ elas são parecidas  em questão de elaboração para o 
+funcionamento no arduino. 
+
+
+Simulador Online
+
+Um site  que recomendo é  o tinkercad  para simular o arduino em funcionamento.
+
+
+https://www.tinkercad.com
+
+
+Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a próxima!
 # English
 
 # Arduino
