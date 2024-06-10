@@ -53,6 +53,8 @@ https://www.tinkercad.com
 
 
 Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a próxima!
+# --------------------------------------------------------------------------------------------------------------------------------
+
 # English
 
 # Arduino
@@ -105,6 +107,8 @@ https://www.tinkercad.com
 
 Thank you very much, this is a quick summary of the main points. See you next!
 
+# --------------------------------------------------------------------------------------------------------------------------------
+
 # Espanõl
 
 # Arduino
@@ -152,6 +156,7 @@ https://www.tinkercad.com
 
 Muchas gracias, este es un resumen rápido de los puntos principales. ¡Hasta la próxima!
 
+# --------------------------------------------------------------------------------------------------------------------------------
 
 ![Arduino-UNO](https://github.com/TassianaMilka/Project-Write/assets/114196099/4d3f9cd9-a0ce-43ed-864a-fb67c2c6a629)
 
