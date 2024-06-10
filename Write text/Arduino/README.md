@@ -36,7 +36,7 @@ requisito dos circuitos divididos em escala.
 
 # Linguagem de Programação
 
-A linguagem de programação mais utilizada é o c e c++ elas são parecidas  em questão de elaboração para o 
+-A linguagem de programação mais utilizada é o c e c++ elas são parecidas  em questão de elaboração para o 
 funcionamento no arduino. 
 
 
