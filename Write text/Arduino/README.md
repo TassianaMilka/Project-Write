@@ -2,7 +2,7 @@
 
 # Arduino
 
-O arduino surgiu em 2005 como um prototipagem eletrônica utilizado pelo estudantes e profissionais que contém 
+-O arduino surgiu em 2005 como um prototipagem eletrônica utilizado pelo estudantes e profissionais que contém 
 interligação com a internet das coisas (IoT),robôs,sistemas de automação,residencial ou industrial, alarmes e 
 entre outros.
 
@@ -26,7 +26,7 @@ Os seus principais componentes:
 
 # Física
 
-Algo referente a física para a ligação dos itens na realização de suas funções da   eletrônica com seu principal 
+-Algo referente a física para a ligação dos itens na realização de suas funções da   eletrônica com seu principal 
 requisito dos circuitos divididos em escala.
 
 # Matemática
@@ -42,7 +42,7 @@ funcionamento no arduino.
 
 # Simulador Online
 
-Um site  que recomendo é  o tinkercad  para simular o arduino em funcionamento.
+-Um site  que recomendo é  o tinkercad  para simular o arduino em funcionamento.
 
 
 https://www.tinkercad.com
