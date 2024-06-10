@@ -21,9 +21,9 @@ management;
 
 -Sarbanes-Oxley Act (SOX) about its context of creation and its importance to computing and the enterprise in its data and stored information;
 
-- OSI model of its layers containing seven of them;
-- 
-- Architecture and organization of computers a side story of difference and assimilates for development with hardware components.
+OSI model of its layers containing seven of them;
+
+Architecture and organization of computers a side story of difference and assimilates for development with hardware components.
 
 
 # Espanõl
@@ -34,7 +34,7 @@ Administración;
 
 -Ley Sarbanes-Oxley (SOX) sobre su contexto de creación y su importancia para la informática y la empresa en sus datos e información almacenada;
 
-- Modelo OSI de sus capas que contiene siete de ellas;
+-Modelo OSI de sus capas que contiene siete de ellas;
   
 -Arquitectura y organización de ordenadores, una historia paralela de diferencia y asimila para su desarrollo con componentes de hardware.
 
