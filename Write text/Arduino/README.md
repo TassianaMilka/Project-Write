@@ -120,12 +120,12 @@ Sus principales componentes:
 -Clock está controlado por el cristal oscilador, normalmente de 16 MHz, que proporciona un ritmo para las actividades del 
 microcontrolador;
 
-- Módulo definido por la comunicación con un ordenador, compuesto por una entrada USB,un microcontrolador dedicado
-    y un puente para cargar código en el arduino;
+Módulo definido por la comunicación con un ordenador, compuesto por una entrada USB,un microcontrolador dedicado
+y un puente para cargar código en el arduino;
   
-- Conector de alimentación;
+-Conector de alimentación;
 
-- Conectores para sensores que toman lecturas analógicas o digitales.
+-Conectores para sensores que toman lecturas analógicas o digitales.
 
 # Física
 
@@ -144,7 +144,7 @@ arduino.
 
 # Simulador online
 
-Un sitio que recomiendo es tinkercad para simular el arduino en funcionamiento.
+-Un sitio que recomiendo es tinkercad para simular el arduino en funcionamiento.
 
 https://www.tinkercad.com
 
