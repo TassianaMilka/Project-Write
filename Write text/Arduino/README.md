@@ -20,7 +20,7 @@ others.
  code to the arduino; 
  
  - Power connector;
- - 
+ 
 - Connectors for sensors that take analogue or digital readings.
 
 
