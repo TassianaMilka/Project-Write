@@ -31,7 +31,7 @@ requisito dos circuitos divididos em escala.
 
 # Matemática
 
-Na matemática com os números de quantidade e dos que são descrito para operar  quando é acionado.
+-Na matemática com os números de quantidade e dos que são descrito para operar  quando é acionado.
 
 
 # Linguagem de Programação
@@ -103,7 +103,7 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 
 
-Arduino
+# Arduino
 
 -Arduino surgió en 2005 como una herramienta de creación de prototipos electrónicos utilizada por estudiantes y profesionales que incluye 
 interconexión con el Internet de las Cosas (IoT), robots, sistemas de automatización doméstica e industrial, alarmas y 
