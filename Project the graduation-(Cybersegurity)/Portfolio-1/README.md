@@ -18,6 +18,7 @@ gerenciamentos;
 # English 
 
 Accomplishment described in Portuguese on some contexts of technology among them:
+
 -Operating system: the beginning of computing, the use of the ENIAC and during the process for the present day of its 
 management;
 
