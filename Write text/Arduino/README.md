@@ -1,6 +1,6 @@
  03/06/2024
  
-Write in Portuguese,English and Espanõl.
+Write in Portuguese,English and Spanish.
 
 
  ![Arduino-UNO](https://github.com/TassianaMilka/Project-Write/assets/114196099/4d3f9cd9-a0ce-43ed-864a-fb67c2c6a629)
