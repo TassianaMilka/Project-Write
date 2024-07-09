@@ -20,7 +20,19 @@ O sistema operacional de versões do windows.
 
 # English 
 
+# Operating Systems
 
+# What is it
+
+Operating systems are versions and distributions of Windows, Linux and macOS that interconnect with hardware and software.
+
+# What are the differences  Windows, Linux and macOS?
+
+Windows is open source, Linux is open source and macOs is more used in other countries than in Brazil,because the price is the highest.
+
+# Which one is most used?
+
+The operating system versions of Windows.
 
 # Espanõl 
 
