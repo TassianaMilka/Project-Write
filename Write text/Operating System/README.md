@@ -16,6 +16,7 @@ Windows é código fechado,Linux código aberto e macOs mais utilizado em outros
 
 O sistema operacional de versões do windows. 
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 # English 
@@ -33,6 +34,9 @@ Windows is code closed, Linux is code open and macOs is more used in other count
 # Which one is most used?
 
 The operating system versions of Windows.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 
 # Espanõl 
 
