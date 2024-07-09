@@ -21,7 +21,7 @@ O sistema operacional de versões do windows.
 
 # English 
 
-# Operating Systems
+# Operating Systems in computer/laptop
 
 # What is it?
 
