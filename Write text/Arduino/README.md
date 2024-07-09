@@ -58,6 +58,7 @@ https://www.tinkercad.com
 
 Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a próxima!
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 # English
 
@@ -111,6 +112,7 @@ https://www.tinkercad.com
 
 Thank you very much, this is a quick summary of the main points. See you next!
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
