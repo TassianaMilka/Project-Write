@@ -22,7 +22,7 @@ O sistema operacional de versões do windows.
 
 # Operating Systems
 
-# What is it
+# What is it?
 
 Operating systems are versions and distributions of Windows, Linux and macOS that interconnect with hardware and software.
 
