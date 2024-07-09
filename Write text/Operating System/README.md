@@ -12,7 +12,7 @@ Sistemas operacionais são  versões e distribuição  do windows,linux e macOs 
 
 
 
-# Quais é diferenças entre  windows,linux e macOs
+# Quais diferenças entre  windows,linux e macOs
 
 Windows é código fechado,Linux é código aberto e macOs é mais utilizado em outros países que não seja o Brasil pelo fato do preço ser o mais alto;
 
