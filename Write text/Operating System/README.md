@@ -40,7 +40,7 @@ The operating system versions of Windows.
 
 # Espanõl 
 
-# Sistemas Operativos
+# Sistemas Operativos en computadora/laptop
 
 # ¿Qué es?
 
