@@ -36,7 +36,19 @@ The operating system versions of Windows.
 
 # Espanõl 
 
+# Sistemas Operativos
 
+# ¿Qué es?
+
+ Sistemas operativos son versiones y distribuciones de Windows, Linux y macOS que se interconectan con hardware y software.
+
+# ¿Cuáles son las diferencias entre Windows, Linux y macOS?
+
+Windows es código cerrado, Linux es código abierto y macOs es más utilizado en otros países que Brasil y otros lugares, pues el precio es mucho alto.
+
+# ¿Cuál es el más utilizado?
+
+Las versiones del sistema operativo de Windows.
 
 
 
