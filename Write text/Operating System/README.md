@@ -28,7 +28,7 @@ Operating systems are versions and distributions of Windows, Linux and macOS tha
 
 # What are the differences  Windows, Linux and macOS?
 
-Windows is open source, Linux is open source and macOs is more used in other countries than in Brazil,because the price is the highest.
+Windows is code closed, Linux is code open and macOs is more used in other countries than in Brazil and other places,because the price is the highest.
 
 # Which one is most used?
 
