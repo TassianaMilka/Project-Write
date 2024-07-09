@@ -7,7 +7,7 @@
 
 
 
--Sistemas operacionais são  versões e distribuição  do windows,linux e macOs que interliga com o hardware e software.
+- Sistemas operacionais são  versões e distribuição  do windows,linux e macOs que interliga com o hardware e software.
 
 
 
