@@ -13,6 +13,7 @@ gerenciamentos;
 
 -Arquitetura e Organização de computadores um lado história de diferença e assimila para o desenvolvimento com os componentes de hardware.
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 # English 
 
@@ -27,6 +28,7 @@ management;
 
 -Architecture and organization of computers a side story of difference and assimilates for development with hardware components.
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 Realización descrita en portugués en algunos contextos de la tecnología, entre ellos:
