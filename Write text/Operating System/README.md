@@ -22,7 +22,7 @@ O sistema operacional de versões do windows.
 
 
 
-# Esapanõl 
+# Espanõl 
 
 
 
