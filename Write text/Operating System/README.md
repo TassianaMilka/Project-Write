@@ -1,6 +1,6 @@
 # Português 
 
-# Sistemas Operacionais 
+# Sistemas Operacionais em computadores/notebook
 
 
 # O que é? 
