@@ -18,7 +18,9 @@ Sistemas operacionais são  versões e distribuição  do windows,linux e macOs 
 
 Windows é código fechado;
 
-Linux 
+Linux é código aberto;
+
+macOs é mais utilizado em outros países que não seja Brasil pelo fato do preço ser o mais alto do que os outros;
 
 
 
