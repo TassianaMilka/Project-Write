@@ -23,8 +23,20 @@ Realização descrito em português sobre um relatório de Redes de Computadores
 
 # English
 
+ Described in Portuguese on a Computer Networks report:
 
+-I have described an introduction about the beginning and its requirements;
 
+-Carried out what was proposed about a network with several departments;
+
+-Starting with 192.168.0.0;
+
+-Vlan;
+
+-Dynamic and static;
+
+- Topology that was used is the star.
+- 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
