@@ -3,7 +3,7 @@
 
 # Português
 
-Realização descrito em português sobre um relatório de Sistemas Operacionais
+Realização descrito em português sobre um relatório de Sistemas Operacionais:
 
 -Descrevi uma introdução sobre o começo e os seus requesitos;
 
@@ -19,5 +19,25 @@ Realização descrito em português sobre um relatório de Sistemas Operacionais
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English 
+
+Described in Portuguese on an Operating Systems report:
+
+-I have described an introduction about the beginning and its requirements;
+
+-Carried out what was proposed about the installation of the virtual machine and the distribution of Linux Ubuntu;
+
+-Creation of a user;
+
+-I used the command console;
+
+-Creation of a Directory.
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+# Espanõl 
+
+
+
+
 
 
