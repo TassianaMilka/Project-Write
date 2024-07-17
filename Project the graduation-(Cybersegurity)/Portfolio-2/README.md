@@ -4,7 +4,7 @@
 
 # Português
 
-Realização descrito em português sobre um relatório de Redes de Computadores
+Realização descrito em português sobre um relatório de Redes de Computadores:
 
 -Descrevi uma introdução sobre o começo e os seus requesitos;
 
@@ -23,7 +23,13 @@ Realização descrito em português sobre um relatório de Redes de Computadores
 
 # English
 
-Realización descrita en portugués en un informe de Redes de Computadoras
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+# Espanõl
+
+Realización descrita en portugués en un informe de Redes de Computadoras:
 
 -He descrito una introducción sobre el principio y sus requisitos;
 
@@ -36,9 +42,4 @@ Realización descrita en portugués en un informe de Redes de Computadoras
 -Dinámico y estático;
 
 -La topología que se utilizó es la estrella.
-
---------------------------------------------------------------------------------------------------------------------------------
-
-# Espanõl
-
 
