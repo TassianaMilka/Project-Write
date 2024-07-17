@@ -35,8 +35,8 @@ Realização descrito em português sobre um relatório de Redes de Computadores
 
 -Dynamic and static;
 
-- Topology that was used is the star.
-- 
+-Topology that was used is the star.
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
