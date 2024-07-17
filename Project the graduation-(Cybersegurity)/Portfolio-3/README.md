@@ -13,8 +13,6 @@ Realização descrito em português sobre um relatório de Sistemas Operacionais
 
 -Utilizei o console de comandos;
 
--Help;
+-Criação de um Diretório.
 
--Calen;
 
--Cd;
