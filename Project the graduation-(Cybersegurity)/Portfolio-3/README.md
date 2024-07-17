@@ -39,7 +39,7 @@ Described in Portuguese on an Operating Systems report:
 
 Descrito en portugués  un informe de Sistemas Operativos:
 
-- Describí una introducción sobre el inicio y sus requisitos;
+-Describí una introducción sobre el inicio y sus requisitos;
 
 -Llevé a cabo lo propuesto sobre la instalación de  máquina virtual y  distribución de Linux Ubuntu;
 
