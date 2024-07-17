@@ -16,3 +16,8 @@ Realização descrito em português sobre um relatório de Sistemas Operacionais
 -Criação de um Diretório.
 
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+# English 
+
+
