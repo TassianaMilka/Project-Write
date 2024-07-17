@@ -16,9 +16,6 @@ Realização descrito em português sobre um relatório de Redes de Computadores
 
 -Dinamico e estático;
 
--
-
-
-
+-Topologia que foi utiliza é a estrela.
 
 # English
