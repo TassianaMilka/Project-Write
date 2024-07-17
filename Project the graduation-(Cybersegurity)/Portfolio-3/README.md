@@ -37,7 +37,17 @@ Described in Portuguese on an Operating Systems report:
 # Espanõl 
 
 
+Descrito en portugués  un informe de Sistemas Operativos:
 
+- Describí una introducción sobre el inicio y sus requisitos;
+
+-Llevé a cabo lo propuesto sobre la instalación de  máquina virtual y  distribución de Linux Ubuntu;
+
+-Creación de un usuario;
+
+-Usé la consola de comandos;
+
+-Creación de un directorio.
 
 
 
