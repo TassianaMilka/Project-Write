@@ -13,4 +13,8 @@ Realização descrito em português sobre um relatório de Sistemas Operacionais
 
 -Utilizei o console de comandos;
 
--
+-Help;
+
+-Calen;
+
+-Cd;
