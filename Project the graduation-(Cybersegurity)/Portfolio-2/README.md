@@ -10,11 +10,11 @@ Realização descrito em português sobre um relatório de Redes de Computadores
 
 -Realizei o que foi proposto sobre uma rede com vários departamentos;
 
--Começando pelo 192.168.0.0 dos protocolos;
-
--Dinamico e estático;
+-Começando pelo 192.168.0.0;
 
 -Vlan;
+
+-Dinamico e estático;
 
 -
 
