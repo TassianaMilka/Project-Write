@@ -1,9 +1,9 @@
 
 
-help 
+# help 
 
 # Português 
-O primeiro comando é help destinado para ajuda e consegue visualizar todos outros.
+O primeiro comando é help destinado para visualizar todos outros.
 
 # Englsih
 
