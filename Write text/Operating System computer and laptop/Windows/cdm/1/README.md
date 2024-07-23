@@ -20,5 +20,8 @@ O primeiro comando ý help destinacione para  visualizar.
 
 
 
-![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/user-attachments/assets/dae268ff-f52c-499b-be65-491c0077a6dd)
+
+
+
+https://github.com/user-attachments/assets/2be142c8-551e-45fa-8831-36484037fe22
 
