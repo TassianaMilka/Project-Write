@@ -2,8 +2,19 @@
 
 help 
 
+# Português 
+O primeiro comando é help destinado para ajuda e consegue visualizar todos outros.
 
-O primeiro comando é help destinado para ajuda e consegue visualizar todos 
+# Englsih
+
+The one comant is help descrided to other.
+
+# Espanõl
+
+O primeiro comando ý help destinacione para aduja y visualizar.
+
+
+
 
 
 
