@@ -1,10 +1,11 @@
-#true
+#true or false 
+
+
 a= 'aluna'
 b= 'aluno'
 
 a is not b
 
-#false
 
 a= 'aluna'
 b= 'aluna'
