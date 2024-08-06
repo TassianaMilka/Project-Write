@@ -1,12 +1,23 @@
-
 /*1*/
+
+numero=int(input("Digite um número(ou 1 para sair)"))
+
+
+while numero !=0;
+if numero %2==0:
+    print("O número é par.")
+else:
+    print("O número é impar")
+    numero=int(input("Digite um número (ou  1 para sair)") )
+    
+/*2*/
 
 for x in range(5):
 
     print(x)
 
 
-/*2*/
+/*3*/
 
 for y in range(2, 7):
 
