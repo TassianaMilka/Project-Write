@@ -30,3 +30,13 @@ for numero in range(1, 11):
 
         break
 
+/*5*/
+
+
+for numero in range(1, 11):
+
+    if numero == 5:
+
+        continue
+
+
