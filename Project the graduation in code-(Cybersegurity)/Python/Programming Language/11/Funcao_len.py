@@ -12,5 +12,5 @@ comprimento = len(numeros)
 
 # Imprime o comprimento da lista
 
-print(, comprimento)
+print("O comprimento da lista", comprimento)
 
