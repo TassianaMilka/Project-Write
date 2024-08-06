@@ -55,7 +55,7 @@ for numero in range(1, 11):
 
 /*6*/
 
-filmes = [, , , , ]
+filmes = [Filme_1,Filme_2 ,Filme_3 ,Filme_4 , Filme_5]
 
  
 
