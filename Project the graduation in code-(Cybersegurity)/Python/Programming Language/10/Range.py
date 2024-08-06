@@ -61,9 +61,9 @@ filmes = [Filme_1,Filme_2 ,Filme_3 ,Filme_4 , Filme_5]
 
 print("Bem-vindo a classificação de filme")
 
-print()
+print("Você contém 5 filmes para classificar")
 
-print()
+print(" Para sair digite o zero (0)")
 
  
 
