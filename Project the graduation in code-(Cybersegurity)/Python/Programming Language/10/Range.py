@@ -3,8 +3,8 @@
 numero=int(input("Digite um número(ou 1 para sair)"))
 
 
-while numero !=0;
-if numero %2==0:
+while numero !=1;
+if numero %2==1:
     print("O número é par.")
 else:
     print("O número é impar")
