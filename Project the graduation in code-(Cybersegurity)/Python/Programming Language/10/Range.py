@@ -83,7 +83,7 @@ for filme in filmes:
 
         if classificacao < 1 or classificacao > 5:
 
-            print()
+            print("Por-favor digite a classificação válida de 1 até 5)
 
         else:
 
@@ -93,4 +93,4 @@ for filme in filmes:
 
  
 
-print()
+print(f"Você classificou '{filme}' com '{classificao}' estrelas.\n")
