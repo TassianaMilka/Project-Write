@@ -38,8 +38,8 @@ situacao = if media_arredondada >= 7 else
 
 # Resultados
 
-print(, notas)
+print("Notas dos estudantes", notas)
 
-print(, media_arredondada)
+print("Media das notas", media_arredondada)
 
-print(, situacao)
+print("Situação do estudante", situacao)
