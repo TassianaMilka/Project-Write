@@ -51,7 +51,21 @@
  https://ubuntu.com/desktop
 
 
- 
+## Datos
+
+
+<p>Fue creado en 2004 por Mark Shuttleworth director ejecutivo de Canonical;</p>
+
+<p>Apareció en la Isla de Man que pertenece a Inglaterra (Reino Unido);</p>
+
+<p>Software es libre, es decir, gratuito;</p>
+
+<p>Una distribución de Linux más conocida por los usuarios;</p>
+
+<p>17 años de uso;</p>
+
+<p>Contiene disco de cifrado completo.</p>
+
 
 
 
