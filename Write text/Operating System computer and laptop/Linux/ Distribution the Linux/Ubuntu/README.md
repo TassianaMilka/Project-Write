@@ -67,5 +67,13 @@
 <p>Contiene disco de cifrado completo.</p>
 
 
+## Link sitio oficial Ubuntu 
+
+ https://ubuntu.com
+
+
+ ## Link para download 
+
+ https://ubuntu.com/desktop
 
 
