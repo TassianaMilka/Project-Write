@@ -25,10 +25,22 @@
  https://ubuntu.com/desktop
 
 
+##  Datas
 
+
+<p>It was created in 2004 by Mark Shuttleworth CEO of Canonical;</p>
+
+<p>It appeared on the Isle of Man in England (United Kingdom);</p>
+
+<p>Its software is free;</p>
+
+<p>A Linux distribution best known to users;</p>
+
+<p>17 years of use;</p>
+
+<p>Contains complete encryption disc.</p>
 
  
-
 ## Link the website office Ubuntu 
 
  https://ubuntu.com
