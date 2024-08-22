@@ -6,4 +6,5 @@
 <p>Os seus softwares são livres,ou seja, free(grátis);</p>
 <p>Uma distribuição do Linux  mais conhecida pelos usuários;</p>
 <p> 17 anos de utilização;</p>
-<p> dds</p>
+<p>Contém disco completo de Criptografia;</p>
+<p></p>
