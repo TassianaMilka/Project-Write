@@ -2,6 +2,10 @@
 
 # Ubuntu
 
+
+![image](https://github.com/user-attachments/assets/63679007-a96f-43d2-80fc-6772fd025b03)
+
+
 ## Dados
 
 
