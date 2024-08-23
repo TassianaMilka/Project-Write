@@ -3,8 +3,8 @@
 # Python(Programming Language)-Explation
 
 
--Exemplo de aula;
+## Exemplo de aula;
 
--Example the classroom;
+## Example the classroom;
 
--Ejemplo de clase. 
+## Ejemplo de clase. 
