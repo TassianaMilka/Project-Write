@@ -1,8 +1,10 @@
 
 
-# Python(Programming Language)-Explation.
-
-# Português
+# Python(Programming Language)-Explation
 
 
--Contém a destinação para  ....
+-Exemplo de aula;
+
+-Example the classroom;
+
+-Ejemplo de clase. 
