@@ -1,5 +1,5 @@
 
-#
+# Crie um gráfico de barras com o Seaborn para mostrar a média de gorjetas por período
 
 
 import seaborn as sns
