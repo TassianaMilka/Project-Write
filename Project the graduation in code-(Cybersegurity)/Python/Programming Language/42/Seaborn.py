@@ -1,5 +1,5 @@
 
-#1
+#
 
 
 import seaborn as sns
@@ -30,16 +30,3 @@ plt.show()
 
 
 
-#2
-
-plt.figure(figsize=(8, 5))
-
-sns.barplot(x='time', y='total_bill', data=df)#, #estimator=sum, ci=None, palette=“Set2”)
-
-plt.xlabel('Período (Time)')
-
-plt.ylabel('Média de Gastos')
-
-plt.title('Média de Gastos por Período (Almoço ou Jantar)')
-
-plt.show()
