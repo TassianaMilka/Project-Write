@@ -20,7 +20,7 @@ html_code = ""
 
  
 
-    <header style="text-align: center; background-color: #3498db; color: #fff; padding: 20px;">
+    <header style="text-align: center; background-color: #FFC0CB; color: #fff; padding: 20px;">
 
         <h1 style="margin: 0;">Tassiana Milka</h1>
 
