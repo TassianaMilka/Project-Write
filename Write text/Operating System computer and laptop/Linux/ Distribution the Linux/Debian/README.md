@@ -13,14 +13,14 @@
 <p> 17 anos de utilização;</p>
 <p>Contém disco completo de Criptografia.</p>
 
-## Link do site oficial do Ubuntu
+## Link do site oficial do Debian
 
- https://ubuntu.com
+
 
 ## Link para download
 
 
- https://ubuntu.com/desktop
+
  
 --------------------------------------------------------------------------------------------------------------------------------
 ##  Datas
@@ -39,14 +39,13 @@
 <p>Contains complete encryption disc.</p>
 
  
-## Link the website Official Ubuntu 
+## Link the website Official Debian
 
  https://ubuntu.com
 
 
  ## Link to download 
 
- https://ubuntu.com/desktop
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -66,11 +65,10 @@
 <p>Contiene disco de cifrado completo.</p>
 
 
-## Link sitio oficial Ubuntu 
+## Link sitio oficial Debian
 
- https://ubuntu.com
+
 
 
  ## Link para download 
 
- https://ubuntu.com/desktop
