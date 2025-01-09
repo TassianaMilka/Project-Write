@@ -1,6 +1,7 @@
 # Debian
 
 
+![R](https://github.com/user-attachments/assets/ce25a594-de73-4912-938a-353332d177a1)
 
 
 ## Dados
