@@ -25,19 +25,17 @@ https://www.debian.org/distrib/index.pt.html
 --------------------------------------------------------------------------------------------------------------------------------
 ##  Datas
 
+<p>It was created in 2004 by Ian Murdock on August 16, 1993;</p>
 
-<p></p>
-
-<p></p>
+<p>It was started by the Free Software hacker group;</p>
 
 <p>Its software is free;</p>
 
-<p></p>
+<p>The Debian 10 installer is available in 76 languages;,</p>
 
-<p></p>
+<p>31 years of use;</p>
 
-<p></p>
-
+<p>The advanced package  APT shares information about stored packages.</p>
  
 ## Link the website Official Debian
 
