@@ -7,9 +7,9 @@
 ## Dados
 
 <p>Obteve a criação no ano de 2004 pelo Ian Murdock em 16 de agosto de 1993;</p>
-<p>Surgiu na Ilha de Man que pertence a Inglaterra(Reino Unido);</p>
+<p></p>
 <p>Os seus softwares são livres,ou seja, free(grátis);</p>
-<p>Uma distribuição do Linux  mais conhecida pelos usuários;</p>
+<p>O instalador do Debian 10 está disponível em 76 línguas;</p>
 <p> 17 anos de utilização;</p>
 <p>Contém disco completo de Criptografia.</p>
 
