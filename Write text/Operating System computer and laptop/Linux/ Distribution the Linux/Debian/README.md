@@ -51,7 +51,15 @@ https://www.debian.org/distrib/index.pt.html
 
 <p>Fue creado en 2004 por Mark Shuttleworth director ejecutivo de Canonical;</p>
 
+<p>Fue iniciado por el grupo de hackers de Software Libre;</p>
 
+<p>Su software es gratuito;</p>
+
+<p>Instalador de Debian 10 está disponible en 76 idiomas;</p>
+
+<p>31 años de uso;</p>
+
+<p>Información avanzada de intercambio de paquetes APT sobre paquetes almacenados.</p>
 
 
 ## Link sitio oficial Debian
