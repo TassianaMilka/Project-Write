@@ -25,7 +25,7 @@ https://www.debian.org/distrib/index.pt.html
 --------------------------------------------------------------------------------------------------------------------------------
 ##  Datas
 
-<p>It was created in 2004 by Ian Murdock on August 16, 1993;</p>
+<p>It was created in 2004 by Ian Murdock on August 16 the 1993;</p>
 
 <p>It was started by the Free Software hacker group;</p>
 
