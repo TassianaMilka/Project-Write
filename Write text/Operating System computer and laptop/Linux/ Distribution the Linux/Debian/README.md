@@ -7,20 +7,20 @@
 ## Dados
 
 <p>Obteve a criação no ano de 2004 pelo Ian Murdock em 16 de agosto de 1993;</p>
-<p></p>
+<p>Obteve o começo pelo grupo de hackers de Software Livre;</p>
 <p>Os seus softwares são livres,ou seja, free(grátis);</p>
 <p>O instalador do Debian 10 está disponível em 76 línguas;</p>
-<p> 17 anos de utilização;</p>
-<p>Contém disco completo de Criptografia.</p>
+<p> 31 anos de utilização;</p>
+<p>A ferramenta de pacote avançada APT compartilha informações sobre pacotes armazenados.</p>
 
 ## Link do site oficial do Debian
 
-
+https://www.debian.org/
 
 ## Link para download
 
 
-
+https://www.debian.org/distrib/index.pt.html
  
 --------------------------------------------------------------------------------------------------------------------------------
 ##  Datas
@@ -41,11 +41,11 @@
  
 ## Link the website Official Debian
 
-
+https://www.debian.org/
 
  ## Link to download 
 
-
+https://www.debian.org/distrib/index.pt.html
 --------------------------------------------------------------------------------------------------------------------------------
 
 ## Datos
@@ -58,8 +58,9 @@
 
 ## Link sitio oficial Debian
 
-
+https://www.debian.org/
 
 
  ## Link para download 
-
+ 
+https://www.debian.org/distrib/index.pt.html
