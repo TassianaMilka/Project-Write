@@ -2,7 +2,7 @@
 
 # Português
 
-Realização descrito em português sobre um relatório de :
+Realização descrito em português sobre um relatório de Algoritmos e Programação Estruturada:
 
 -Descrevi uma introdução sobre o começo e os seus requesitos;
 
