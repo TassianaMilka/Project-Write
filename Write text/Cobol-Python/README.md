@@ -14,17 +14,11 @@ Write in Portuguese,English and Spanish.
 
 # Principais diferenças 
 
- Suas principais diferenças:
-
--
-      
-
-
-# Cobol 
+## Cobol 
 
 
 
-# Python 
+## Python 
 
 
 
