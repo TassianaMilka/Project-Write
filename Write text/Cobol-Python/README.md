@@ -97,7 +97,7 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 # Main differences
 
-# Cobol
+## Cobol
 
 -Launched in 1959;
 
@@ -105,7 +105,7 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 -It contains environment, data and procedure divisions.
 
-# Python
+## Python
 
 -Launched in 1991;
 
@@ -177,7 +177,7 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 # Principales diferencias
 
-#Cobol
+## Cobol
 
 -Lanzado en 1959;
 
@@ -185,7 +185,7 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 -Contiene divisiones de medio ambiente, datos y procedimientos.
 
-#Python
+## Python
 
 -Lanzado en 1991;
 
