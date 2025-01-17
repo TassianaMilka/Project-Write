@@ -28,7 +28,7 @@ Write in Portuguese,English and Spanish.
 
 -O recurso principal é análise de dados;
 
--
+-Contém biblioteca padrão,tratamento de exceções e programação funcional.
 
 
 # Exemplos
