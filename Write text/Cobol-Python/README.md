@@ -20,7 +20,7 @@ Write in Portuguese,English and Spanish.
 
 -O recurso principal é orientação a objeto;
 
--Contém divisões de ambiente,dados e procedimento;
+-Contém divisões de ambiente,dados e procedimento.
 
 # Python
 
