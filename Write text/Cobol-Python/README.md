@@ -14,6 +14,14 @@ Write in Portuguese,English and Spanish.
 
 # Principais diferenças 
 
+
+# Exemplos
+
+
+-Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de uma multiplicação que o usuário solicita os números.
+
+
+
 ## Cobol 
 
 ```markdown
@@ -58,13 +66,6 @@ print(multi)
 #
 
 ```
-
-# Exemplos
-
-
-=Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de uma multiplicação que o usuário solicita os números.
-
-
 
 
 # Simulador Online
