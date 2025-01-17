@@ -91,6 +91,78 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 # English
 
+# Difference Cobol and Python
+
+-We have two groups of programming languages  Cobol low level and high level Python.
+
+# Main differences
+
+# Cobol
+
+-Launched in 1959;
+
+-The main feature is object orientation;
+
+-It contains environment, data and procedure divisions.
+
+# Python
+
+-Launched in 1991;
+
+-The main feature is data analysis;
+
+-It contains standard library, exception handling and functional programming.
+
+# Examples
+
+-Contains an example of the two programming languages ​​on the performance of a multiplication that the user requests the numbers.
+
+
+
+## Cobol 
+
+```markdown
+#
+
+IDENTIFICATION DIVISION.
+PROGRAM-ID. OPERATIONS.
+DATA  DIVISION.2024/01/16
+FILE SECTION.
+WORKING-STORAGE SECTION.
+01 NUM1 PIC 9(4).
+01 NUM2 PIC 9(4).
+01 RESULTADO PIC 9(5).
+PROCEDURE DIVISION.
+MAIN-PROCEDURE.
+DISPLAY "One number".
+ACCEPT NUM1.
+DISPLAY "Two number".
+ACCEPT NUM2.
+MULTIPLY NUM1 BY NUM2 GIVING RESULT.
+DISPLAY "The result"RESULT.
+STOP RUN.
+END  PROGRAM  OPERATIONS.
+
+#
+
+```
+
+## Python 
+
+```markdown
+#
+
+onenum = int(input("One number\n"))
+twonum = int(input("Two number\n"))
+
+multi = onenum * twonum
+
+print("The result")
+print(multi)
+
+#
+
+```
 
 Thank you very much, this is a quick summary of the main points. See you next!
 
@@ -98,6 +170,11 @@ Thank you very much, this is a quick summary of the main points. See you next!
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
+
+
+
+
+
 
 
 Muchas gracias, este es un resumen rápido de los puntos principales. ¡Hasta la próxima!
