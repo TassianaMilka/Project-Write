@@ -16,9 +16,14 @@ Write in Portuguese,English and Spanish.
 
 # Cobol
 
+-Lançamento em 1959;
 
+-O recurso principal é orientação a objeto;
+
+-Contém divisões de ambiente,dados e procedimento;
 
 # Python
+
 
 
 # Exemplos
