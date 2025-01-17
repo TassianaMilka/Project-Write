@@ -74,14 +74,6 @@ print(multi)
 ```
 
 
-# Simulador Online
-
--Um site  que recomendo é  o tinkercad  para simular o arduino em funcionamento.
-
-
-https://www.tinkercad.com
-
-
 Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a próxima!
 
 
