@@ -14,7 +14,7 @@ Write in Portuguese,English and Spanish.
 
 # Principais diferenças 
 
-# Cobol
+## Cobol
 
 -Lançamento em 1959;
 
@@ -22,7 +22,7 @@ Write in Portuguese,English and Spanish.
 
 -Contém divisões de ambiente,dados e procedimento.
 
-# Python
+## Python
 
 -Lançamento em 1991;
 
