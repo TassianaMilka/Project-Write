@@ -50,7 +50,6 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 # Espanõl
 
-# Arduino
 
 
 
