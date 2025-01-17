@@ -171,10 +171,77 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 # Espanõl
 
+# Diferencia Cobol y Python
+
+-Tenemos dos grupos de lenguajes de programación Cobol de bajo nivel y Python de alto nivel.
+
+# Principales diferencias
+
+#Cobol
+
+-Lanzado en 1959;
+
+-La característica principal es la orientación a objetos;
+
+-Contiene divisiones de medio ambiente, datos y procedimientos.
+
+#Python
+
+-Lanzado en 1991;
+
+-La característica principal es el análisis de datos;
+
+-Contiene biblioteca estándar, manejo de excepciones y programación funcional.
+
+# Ejemplos
+
+-Muestra un ejemplo de los dos lenguajes de programación sobre la realización de una multiplicación que el usuario solicita de los números.
 
 
+## Cobol 
 
+```markdown
+#
 
+IDENTIFICATION DIVISION.
+PROGRAM-ID. OPERATIONS.
+DATA  DIVISION.2024/01/16
+FILE SECTION.
+WORKING-STORAGE SECTION.
+01 NUM1 PIC 9(4).
+01 NUM2 PIC 9(4).
+01 RESULTADO PIC 9(5).
+PROCEDURE DIVISION.
+MAIN-PROCEDURE.
+DISPLAY "One number".
+ACCEPT NUM1.
+DISPLAY "Two number".
+ACCEPT NUM2.
+MULTIPLY NUM1 BY NUM2 GIVING RESULT.
+DISPLAY "The result"RESULT.
+STOP RUN.
+END  PROGRAM  OPERATIONS.
+
+#
+
+```
+
+## Python 
+
+```markdown
+#
+
+onenum = int(input("One number\n"))
+twonum = int(input("Two number\n"))
+
+multi = onenum * twonum
+
+print("The result")
+print(multi)
+
+#
+
+```
 
 
 Muchas gracias, este es un resumen rápido de los puntos principales. ¡Hasta la próxima!
