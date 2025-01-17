@@ -9,7 +9,7 @@ Write in Portuguese,English and Spanish.
 
 # Diferença entre Cobol e Python
 
--No mercado contemos separação de dois grupos linguagens de programação de nível baixo como o Cobol e de nível alto o Python.
+-No mercado contemos separação de dois grupos sobre linguagens de programação de nível baixo como o Cobol e de nível alto o Python.
 
 
 # Principais diferenças 
