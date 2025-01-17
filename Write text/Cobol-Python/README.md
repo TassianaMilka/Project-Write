@@ -42,10 +42,22 @@ END  PROGRAM  OPERATIONS.
 
 ```
 
-
 ## Python 
 
+```markdown
+#
 
+onenum = int(input("One number\n"))
+twonum = int(input("Two number\n"))
+
+multi = onenum * twonum
+
+print("The result")
+print(multi)
+
+#
+
+```
 
 # Exemplos
 
