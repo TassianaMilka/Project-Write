@@ -24,6 +24,11 @@ Write in Portuguese,English and Spanish.
 
 # Python
 
+-Lançamento em 1991;
+
+-O recurso principal é análise de dados;
+
+-
 
 
 # Exemplos
