@@ -25,7 +25,7 @@ Write in Portuguese,English and Spanish.
 # Exemplos
 
 
--  Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de uma multiplicação que o usuário solicita os números.
+.Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de uma multiplicação que o usuário solicita os números.
 
 
 
