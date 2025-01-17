@@ -14,6 +14,12 @@ Write in Portuguese,English and Spanish.
 
 # Principais diferenças 
 
+# Cobol
+
+
+
+# Python
+
 
 # Exemplos
 
