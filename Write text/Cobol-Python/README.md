@@ -100,6 +100,6 @@ Thank you very much, this is a quick summary of the main points. See you next!
 # Espanõl
 
 
-
+Muchas gracias, este es un resumen rápido de los puntos principales. ¡Hasta la próxima!
 
 
