@@ -92,6 +92,8 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 # English
 
 
+Thank you very much, this is a quick summary of the main points. See you next!
+
 
 --------------------------------------------------------------------------------------------------------------------------------
 
