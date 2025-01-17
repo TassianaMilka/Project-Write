@@ -2,8 +2,7 @@
  
 Write in Portuguese,English and Spanish.
 
-
- ![Arduino-UNO](https://github.com/TassianaMilka/Project-Write/assets/114196099/4d3f9cd9-a0ce-43ed-864a-fb67c2c6a629)
+![desarrollo](https://github.com/user-attachments/assets/c7bc5be0-813d-47e2-9d51-267547039e59)
 
  
 # Português 
