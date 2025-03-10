@@ -6,12 +6,12 @@
 
 ## Dados
 
-<p>Obteve a criação no ano de 2004 pelo Mark Shuttleworth CEO da Canonical;</p>
-<p>Surgiu na Ilha de Man que pertence a Inglaterra(Reino Unido);</p>
-<p>Os seus softwares são livres,ou seja, free(grátis);</p>
-<p>Uma distribuição do Linux  mais conhecida pelos usuários;</p>
-<p> 17 anos de utilização;</p>
-<p>Contém disco completo de Criptografia.</p>
+<p>Obteve a criação em 27 de setembro de 2006;</p>
+<p>Surgiu na Irlanda;</p>
+<p>Contém drivers e codecs;</p>
+<p>Parte do desenvolvimento é feito em Python;</p>
+<p>Software livre e de código aberto;</p>
+<p>A comunidade de usuários do Linux Mint usa o Launchpad para participar da tradução do sistema operacional e no relato de bugs.</p>
 
 ## Link do site oficial do Mint
 
