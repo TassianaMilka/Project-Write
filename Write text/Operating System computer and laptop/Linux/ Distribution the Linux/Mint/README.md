@@ -26,6 +26,17 @@ https://www.linuxmint.com/
 
 
 
+<p>Created on September 27 the 2006;</p>
+
+<p>It arose in Ireland;</p>
+
+<p>It contains drivers and codecs;</p>
+
+<p>Some of the development is done in Python;</p>
+
+<p>Free and open source software;</p>
+
+<p>Linux Mint User Community uses Launchpad to participate in operating system translation and error reporting.</p>
 
  
 ## Link the website Official Mint
@@ -41,7 +52,17 @@ https://www.linuxmint.com/
 
 ## Datos
 
+<p>Creado el 27 de septiembre de 2006;</p>
 
+<p>Surgió en Irlanda;</p>
+
+<p>Contiene controladores y códecs;</p>
+
+<p>Parte del desarrollo se realiza en Python;</p>
+
+<p>Software libre y de código abierto;</p>
+
+<p>Comunidad de usuarios de Linux Mint utiliza Launchpad para participar en la traducción del sistema operativo y en la notificación de errores.</p>
 
 
 ## Link sitio oficial Mint
