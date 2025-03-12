@@ -10,7 +10,7 @@ Write in Portuguese,English and Spanish.
 
 # Diferença entre um código com nome de class e outros não contém
 
--No mercado contemos separação de dois grupos sobre linguagens de programação aquelas que contém nome de class para identificar e outras não contém como o Java e C++.
+-No mercado contemos separação de dois grupos sobre linguagens de programação aquelas que contém nome de class para identificar e outras não contém como o java e c++.
 
 
 # Principais diferenças 
@@ -21,15 +21,15 @@ Write in Portuguese,English and Spanish.
 
 -O recurso principal é orientação a objeto;
 
--Contém divisões de ambiente,dados e procedimento.
+-
 
 ## C++
 
 -Lançamento  em  1998;
 
--O recurso principal é análise de dados;
+-Sua criação foi baseada na linguagem de programação c;
 
--Contém biblioteca padrão,tratamento de exceções e programação funcional.
+-Linguagem de programação c++ é multiparadigma.
 
 
 # Exemplos
