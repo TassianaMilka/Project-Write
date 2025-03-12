@@ -35,7 +35,7 @@ Write in Portuguese,English and Spanish.
 # Exemplos
 
 
--Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de imprimir uma frase utilizado em java orientação a objeto e  C++ string.
+-Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de imprimir uma frase utilizado em java e c++ de uma string.
 
 
 
@@ -44,24 +44,22 @@ Write in Portuguese,English and Spanish.
 ```markdown
 #
 
-IDENTIFICATION DIVISION.
-PROGRAM-ID. OPERATIONS.
-DATA  DIVISION.2024/01/16
-FILE SECTION.
-WORKING-STORAGE SECTION.
-01 NUM1 PIC 9(4).
-01 NUM2 PIC 9(4).
-01 RESULTADO PIC 9(5).
-PROCEDURE DIVISION.
-MAIN-PROCEDURE.
-DISPLAY "One number".
-ACCEPT NUM1.
-DISPLAY "Two number".
-ACCEPT NUM2.
-MULTIPLY NUM1 BY NUM2 GIVING RESULT.
-DISPLAY "The result"RESULT.
-STOP RUN.
-END  PROGRAM  OPERATIONS.
+public class Frase {//Name class
+
+    public static void main(String[] args) {
+
+
+        String Dado_frase="Example others about!";
+
+        //print
+
+        System.out.println("\n"+Dado_frase);
+ 
+
+        }
+
+
+}
 
 #
 
@@ -72,13 +70,22 @@ END  PROGRAM  OPERATIONS.
 ```markdown
 #
 
-onenum = int(input("One number\n"))
-twonum = int(input("Two number\n"))
+#include <iostream>
+#include <string>
 
-multi = onenum * twonum
+int main() { //Not name class
+    
+    std::string Dado_frase = "Example others about!";
+    
+    
+    std::cout <<"\n";
+    
+    //Print
+    
+    std::cout << Dado_frase << std::endl;
 
-print("The result")
-print(multi)
+    return 0;
+}
 
 #
 
