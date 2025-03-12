@@ -39,7 +39,7 @@ Write in Portuguese,English and Spanish.
 
 
 
-## Cobol 
+## Java
 
 ```markdown
 #
@@ -65,7 +65,7 @@ public class Frase {//Name class
 
 ```
 
-## Python 
+## C++
 
 ```markdown
 #
