@@ -21,7 +21,7 @@ Write in Portuguese,English and Spanish.
 
 -O recurso principal é orientação a objeto;
 
--
+-Contém nome de classe.
 
 ## C++
 
