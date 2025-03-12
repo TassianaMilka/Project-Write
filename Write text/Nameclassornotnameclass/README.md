@@ -10,7 +10,7 @@ Write in Portuguese,English and Spanish.
 
 # Diferença entre um código com nome de class e outros não contém
 
--No mercado contemos separação de dois grupos sobre linguagens de programação aquelas que contém nome de class e a que não contém.
+-No mercado contemos separação de dois grupos sobre linguagens de programação aquelas que contém nome de class para identificar e outras não contém como o Java e C++.
 
 
 # Principais diferenças 
@@ -25,7 +25,7 @@ Write in Portuguese,English and Spanish.
 
 ## C++
 
--Lançamento em 1991;
+-Lançamento  em  1998;
 
 -O recurso principal é análise de dados;
 
