@@ -8,14 +8,14 @@ Write in Portuguese,English and Spanish.
  
 # Português 
 
-# Diferença entre Cobol e Python
+# Diferença entre um código com nome de class e outros não contém
 
--No mercado contemos separação de dois grupos sobre linguagens de programação de nível baixo como o Cobol e de nível alto o Python.
+-No mercado contemos separação de dois grupos sobre linguagens de programação aquelas que contém nome de class e a que não contém.
 
 
 # Principais diferenças 
 
-## Cobol
+## Java
 
 -Lançamento em 1959;
 
@@ -23,7 +23,7 @@ Write in Portuguese,English and Spanish.
 
 -Contém divisões de ambiente,dados e procedimento.
 
-## Python
+## C++
 
 -Lançamento em 1991;
 
@@ -35,7 +35,7 @@ Write in Portuguese,English and Spanish.
 # Exemplos
 
 
--Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de uma multiplicação que o usuário solicita os números.
+-Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de imprimir uma frase utilizado em java orientação a objeto e  C++ string.
 
 
 
