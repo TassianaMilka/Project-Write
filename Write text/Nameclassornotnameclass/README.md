@@ -2,7 +2,7 @@
  
 Write in Portuguese,English and Spanish.
 
-
+  
 ![image](https://github.com/user-attachments/assets/958db988-0923-41e2-8d9d-ff16045a2b7c)
 
  
