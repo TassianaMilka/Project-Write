@@ -35,7 +35,7 @@ Write in Portuguese,English and Spanish.
 # Exemplos
 
 
--Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de imprimir uma frase utilizado em java e c++ de uma string.
+-Abaixo contém o exemplo  das duas linguagens de programação sobre a realização de imprimir uma frase utilizado em java e c++ uma string.
 
 
 
