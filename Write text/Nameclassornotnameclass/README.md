@@ -214,4 +214,56 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 -Muestra un ejemplo de los dos lenguajes de programación sobre la realización de una  string  en java y c++.
 
+## Java
 
+```markdown
+#
+
+public class Frase {//Name class
+
+    public static void main(String[] args) {
+
+
+        String Dado_frase="Example others about!";
+
+        //print
+
+        System.out.println("\n"+Dado_frase);
+ 
+
+        }
+
+
+}
+
+#
+
+```
+
+## C++
+
+```markdown
+#
+
+#include <iostream>
+#include <string>
+
+int main() { //Not name class
+    
+    std::string Dado_frase = "Example others about!";
+    
+    
+    std::cout <<"\n";
+    
+    //Print
+    
+    std::cout << Dado_frase << std::endl;
+
+    return 0;
+}
+
+#
+
+```
+
+Muchas gracias, este es un resumen rápido de los puntos principales. ¡Hasta la próxima!
