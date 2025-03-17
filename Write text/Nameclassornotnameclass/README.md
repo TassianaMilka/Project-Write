@@ -23,6 +23,7 @@ Write in Portuguese,English and Spanish.
 
 -Contém nome de classe.
 
+
 ## C++
 
 -Lançamento  em  1979;
@@ -197,13 +198,14 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 # Principales diferencias
 
-# Cobol
+# Java
 
 -Lanzado en 1995;
 
 -La característica principal es la orientación a objetos;
 
 -Contiene nobre classe.
+
 
 ## C++
 
