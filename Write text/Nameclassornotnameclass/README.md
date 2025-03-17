@@ -187,5 +187,31 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 # Espanõl
 
+# Diferencia nonbre classe y no nobre classe
+
+
+-Tenemos dos grupos con nobre classe y no nobre classe lenguajes de programación java y c++.
+
+# Principales diferencias
+
+# Cobol
+
+-Lanzado en 1995;
+
+-La característica principal es la orientación a objetos;
+
+-Contiene nobre classe.
+
+# Python
+
+-Lanzado en 1991;
+
+-La característica principal es el análisis de datos;
+
+-Contiene biblioteca estándar, manejo de excepciones y programación funcional.
+
+# Ejemplos
+
+-Muestra un ejemplo de los dos lenguajes de programación sobre la realización de una  string  en java y c++.
 
 
