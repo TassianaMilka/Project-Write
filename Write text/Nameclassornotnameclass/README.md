@@ -119,6 +119,62 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 -Name class.
 
 
+# C++
+
+
+
+
+## Java
+
+```markdown
+#
+
+public class Frase {//Name class
+
+    public static void main(String[] args) {
+
+
+        String Dado_frase="Example others about!";
+
+        //print
+
+        System.out.println("\n"+Dado_frase);
+ 
+
+        }
+
+
+}
+
+#
+
+```
+
+## C++
+
+```markdown
+#
+
+#include <iostream>
+#include <string>
+
+int main() { //Not name class
+    
+    std::string Dado_frase = "Example others about!";
+    
+    
+    std::cout <<"\n";
+    
+    //Print
+    
+    std::cout << Dado_frase << std::endl;
+
+    return 0;
+}
+
+#
+
+```
 
 
 
