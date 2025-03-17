@@ -125,7 +125,7 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 -Launched in 1979;
 
-- Creation was based on the c programming language;
+-Creation was based on the c programming language;
 
 -C++ programming language is multiparadigm.
 
