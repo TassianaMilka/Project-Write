@@ -124,6 +124,11 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 
 
+
+# Examples
+
+-Contains an example of the two programming languages ​​on the performance of a print one string with name class and not name class.
+
 ## Java
 
 ```markdown
