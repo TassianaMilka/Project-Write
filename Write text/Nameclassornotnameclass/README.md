@@ -205,13 +205,14 @@ Thank you very much, this is a quick summary of the main points. See you next!
 
 -Contiene nobre classe.
 
-# Python
+## C++
 
--Lanzado en 1991;
+-Lanzado en 1979;
 
 -La característica principal es el análisis de datos;
 
--Contiene biblioteca estándar, manejo de excepciones y programación funcional.
+-La lenguajes de programación ý multiparadigma.
+
 
 # Ejemplos
 
@@ -242,15 +243,6 @@ public class Frase {//Name class
 #
 
 ```
-
-## C++
-
-
--Lanzado en 1979;
-
--La característica principal es el análisis de datos;
-
--La lenguajes de programación ý multiparadigma.
 
 
 ```markdown
