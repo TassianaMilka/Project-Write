@@ -25,7 +25,7 @@ Write in Portuguese,English and Spanish.
 
 ## C++
 
--Lançamento  em  1998;
+-Lançamento  em  1979;
 
 -Sua criação foi baseada na linguagem de programação c;
 
@@ -121,8 +121,11 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 # C++
 
+-Lanzado en 1979;
 
+-La característica principal es el análisis de datos;
 
+-La lianguage.
 
 
 # Examples
@@ -241,6 +244,14 @@ public class Frase {//Name class
 ```
 
 ## C++
+
+
+-Lanzado en 1979;
+
+-La característica principal es el análisis de datos;
+
+-La lenguajes de programación ý multiparadigma.
+
 
 ```markdown
 #
