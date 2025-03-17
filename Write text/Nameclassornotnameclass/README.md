@@ -122,11 +122,12 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 # C++
 
--Lanzado en 1979;
 
--La característica principal es el análisis de datos;
+-Launched in 1979;
 
--La lianguage.
+- Creation was based on the c programming language;
+
+-C++ programming language is multiparadigm.
 
 
 # Examples
