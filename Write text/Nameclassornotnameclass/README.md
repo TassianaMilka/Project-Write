@@ -17,7 +17,7 @@ Write in Portuguese,English and Spanish.
 
 ## Java
 
--Lançamento em 1959;
+-Lançamento em 1995;
 
 -O recurso principal é orientação a objeto;
 
@@ -96,3 +96,31 @@ Muito obrigada esse é um pequeno texto rápido dos principais pontos.Até a pr�
 
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+
+# English
+
+# Difference name class and not name class
+
+
+
+-We have two groups of programming languages with class name  and not class name of programming languages java or c++. 
+
+
+# Main differences
+
+
+# Java
+
+-Launched in 1995;
+
+-The main feature is object orientation;
+
+-Name class.
+
+
+
+
+
+
+
