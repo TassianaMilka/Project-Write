@@ -35,9 +35,11 @@ https://www.kali.org/get-kali/#kali-platforms
  
 ## Link the website Official Kali
 
-
+https://www.kali.org/
 
  ## Link to download 
+ 
+https://www.kali.org/get-kali/#kali-platforms
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -49,7 +51,11 @@ https://www.kali.org/get-kali/#kali-platforms
 
 ## Link sitio oficial Kali
 
+https://www.kali.org/
 
 
  ## Link para download 
+
+ https://www.kali.org/get-kali/#kali-platforms
+
 
