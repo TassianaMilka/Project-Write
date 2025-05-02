@@ -10,7 +10,7 @@
 
 <p>Uma distribuição GNU/Linux baseada no Debian;</p>
 <p>Softwares pré-instalados;</p>
-<p>Desde 2016 é uma distribuição "rolling-release;</p>
+<p>Desde 2016 é uma distribuição "rolling-release";</p>
 <p> fgfgfg</p>
 <p>dfdef</p>
 <p>dfsdfds</p>
