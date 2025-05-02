@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/e848523c-ef99-432c-aa51-60625b09f3a7)
 
 
-## Dados  6
+## Dados  
 
 <p>Uma distribuição GNU/Linux baseada no Debian;</p>
 <p>Softwares pré-instalados;</p>
