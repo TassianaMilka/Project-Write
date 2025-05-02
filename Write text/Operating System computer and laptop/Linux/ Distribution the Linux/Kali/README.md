@@ -57,7 +57,17 @@ https://www.kali.org/get-kali/#kali-platforms
 ## Datos
 
 
+<p>Una distribución GNU/Linux basada en Debian;</p>
 
+<p>Software preinstalado;</p>
+
+<p>Desde 2016 es una distribución "rolling-release";</p>
+
+<p>Acepto arquitecturas x86, x64 y ARM;</p>
+
+<p>Un kernel PAE por defecto;</p>
+
+<p>Ejecuta en sistemas con más de 4 GiB de RAM.</p>
 
 ## Link sitio oficial Kali
 
