@@ -12,9 +12,10 @@
 
 ## Link do site oficial do Kali
 
-
+https://www.kali.org/
 
 
 ## Link para download
 
 
+https://www.kali.org/get-kali/#kali-platforms
