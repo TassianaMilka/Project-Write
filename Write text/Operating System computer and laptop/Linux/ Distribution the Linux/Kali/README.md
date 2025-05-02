@@ -12,7 +12,7 @@
 <p>Softwares pré-instalados;</p>
 <p>Desde 2016 é uma distribuição "rolling-release";</p>
 <p>Aceito arquiteturas x86, x64 e ARM;</p>
-<p>dfdef</p>
+<p>Um kernel PAE por padrão;</p>
 <p>dfsdfds</p>
 
 ## Link do site oficial do Kali
