@@ -13,7 +13,7 @@
 <p>Desde 2016 é uma distribuição "rolling-release";</p>
 <p>Aceito arquiteturas x86, x64 e ARM;</p>
 <p>Um kernel PAE por padrão;</p>
-<p>dfsdfds</p>
+<p>Executado em sistemas com mais de 4 GiB de RAM.</p>
 
 ## Link do site oficial do Kali
 
