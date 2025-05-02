@@ -30,7 +30,17 @@ https://www.kali.org/get-kali/#kali-platforms
 ##  Datas
 
 
+<p>A GNU/Linux distribution based on Debian;</p>
 
+<p>Pre-installed software;<p>
+
+<p>Since 2016 it has been a "rolling-release" distribution;</p>
+
+<p>I accept x86, x64 and ARM architectures;</p>
+
+<p>A PAE kernel by default;</p>
+
+<p>Runs on systems with more than 4 GiB of RAM.</p>
 
  
 ## Link the website Official Kali
