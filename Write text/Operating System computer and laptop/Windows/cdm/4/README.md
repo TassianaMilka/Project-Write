@@ -1,4 +1,19 @@
 
+# date
+
+# Português 
+
+O comando date é destinado para saber data e mudar.
+
+
+# Englsih
+
+The comant time is to date and other next date. 
+
+# Espanõl
+
+O  comando date ý destinacione para  fecha y cambio.
+
 
 
 
