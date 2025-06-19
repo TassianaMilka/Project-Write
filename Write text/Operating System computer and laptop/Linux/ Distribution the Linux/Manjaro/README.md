@@ -18,12 +18,12 @@
 
 ## Link do site oficial do Ubuntu
 
- https://ubuntu.com
+https://manjaro.org/
 
 ## Link para download
 
 
- https://ubuntu.com/desktop
+https://manjaro.org/products/download/x86
  
 --------------------------------------------------------------------------------------------------------------------------------
 ##  Datas
@@ -44,12 +44,11 @@
  
 ## Link the website Official Ubuntu 
 
- https://ubuntu.com
-
+https://manjaro.org/
 
  ## Link to download 
 
- https://ubuntu.com/desktop
+https://manjaro.org/products/download/x86
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -71,11 +70,9 @@
 
 ## Link sitio oficial Ubuntu 
 
- https://ubuntu.com
+https://manjaro.org/
 
 
  ## Link para download 
-
- https://ubuntu.com/desktop
-
-
+ 
+https://manjaro.org/products/download/x86
