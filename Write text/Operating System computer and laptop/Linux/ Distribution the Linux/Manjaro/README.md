@@ -13,10 +13,10 @@
 <p>Um modelo de atualização de lançamento contínuo e usa o Pacman como seu gerenciador de pacotes;</p>
 <p>Desenvolvido principalmente na Áustria, na França e na Alemanha;</p>
 <p>Contém uma interface de linha de comandos (CLI) e um instalador gráfico;</p>
-<p> 17 anos de utilização;</p>
-<p>Contém disco completo de Criptografia.</p>
+<p>Próprio gerenciador de configurações de interface gráfica de usuário;</p>
+<p>Para instalações baseadas em interface gráfica de usuário (GUI), o Manjaro usa o instalador Calamares.</p>
 
-## Link do site oficial do Ubuntu
+## Link do site oficial do Manjaro
 
 https://manjaro.org/
 
