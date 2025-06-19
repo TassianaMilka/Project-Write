@@ -48,9 +48,12 @@ https://manjaro.org/products/download/x86
 ## Datos
 
 
+<p>Basado en el sistema operativo Arch Linux;</p>
+<p>Modelo de actualización de lanzamiento continuo y utiliza Pacman como su gestor de paquetes;</p>
+<p>Desarrollado principalmente en Austria, Francia y Alemania; Contiene una interfaz de línea de comandos (CLI) y un instalador gráfico;</p>
+<p>Gestor de configuración de interfaz gráfica de usuario;</p>
+<p>Instalaciones basadas en interfaz gráfica de usuario (GUI), Manjaro utiliza el instalador Calamares.</p>
 
-
-<p>Contiene disco de cifrado completo.</p>
 
 
 ## Link sitio oficial  Manjaro
