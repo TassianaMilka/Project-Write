@@ -29,21 +29,14 @@ https://manjaro.org/products/download/x86
 ##  Datas
 
 
-<p>It was created in 2004 by Mark Shuttleworth CEO of Canonical;</p>
-
-<p>It appeared on the Isle of Man in England (United Kingdom);</p>
-
-<p>Its software is free;</p>
-
-<p>A Linux distribution best known to users;</p>
-
-<p>17 years of use;</p>
-
-<p>Contains complete encryption disc.</p>
+<p>Based on the Arch Linux operating system;</p>
+<p>A continuous release update model and uses Pacman as its package manager;</p>
+<p>Developed mainly in Austria, France, and Germany;Contains a command-line interface (CLI) and a graphical installer;</p>
+<p>Graphical user interface configuration manager;</p>
+<p>Installations based on graphical user interface (GUI), Manjaro uses the Calamares installer.</p>
 
  
-## Link the website Official Ubuntu 
-
+## Link the website Official  Manjaro
 https://manjaro.org/
 
  ## Link to download 
@@ -68,7 +61,7 @@ https://manjaro.org/products/download/x86
 <p>Contiene disco de cifrado completo.</p>
 
 
-## Link sitio oficial Ubuntu 
+## Link sitio oficial  Manjaro
 
 https://manjaro.org/
 
