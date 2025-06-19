@@ -10,7 +10,7 @@
 ## Dados
 
 <p>Baseada no sistema operacional Arch Linux;</p>
-<p>Surgiu na Ilha de Man que pertence a Inglaterra(Reino Unido);</p>
+<p>Um modelo de atualização de lançamento contínuo e usa o Pacman como seu gerenciador de pacotes;</p>
 <p>Os seus softwares são livres,ou seja, free(grátis);</p>
 <p>Uma distribuição do Linux  mais conhecida pelos usuários;</p>
 <p> 17 anos de utilização;</p>
