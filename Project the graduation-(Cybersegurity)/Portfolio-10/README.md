@@ -14,10 +14,21 @@ terminal.
 
 # English 
 
+Realization described in Portuguese on about a report Network Architecture :
 
+-I described an introduction about the beginning and its requirements;
+
+-I carried out what was proposed about the configuration of Cisco Packet Tracer items and the use of VirtualBox for some 
+description on the terminal.
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl 
 
+Logro descrito en portugués sobre un informe de Arquitectura de Redes:
+
+-Describí una introducción sobre el inicio y sus requisitos;
+
+-Realicé lo propuesto en cuanto a la configuración de los elementos de Cisco Packet Tracer y el uso de VirtualBox para algunas funcionalidades 
+en  terminal.    
